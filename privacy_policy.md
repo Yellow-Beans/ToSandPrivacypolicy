@@ -27,7 +27,7 @@ D) Information about role(s) on your server
  
 It is also possible, that the bot needs other data for functions not planed by the time this privacy policy is written. 
 IF that happens or any of the ideas in 1.3 get implemented it will be pronounced here as well as in Bootys’ video comments, as a pinned comment, at least 4 weeks before the new features are rolled out:
-https://www.youtube.com/watch?v=6e8Y9NaIzfk
+[Bootys' video](https://www.youtube.com/watch?v=6e8Y9NaIzfk)
   
 From a development point of view, it would be more convenient to simply store the user objects, as they are required to give kick orders. However, since Booty was designed to store as little data as possible, 
 the decision was made only to call on, and not store, the user object that is required to kick a member. This was achieved at the cost of lengthening Booty's code and making it a bit less convenient to work with. 
@@ -58,14 +58,14 @@ Only Booty's developers have access to the entire database. This data will not b
 ## 5) Contact
 If you have any questions about Booty, feel free to join his support-Discord
 
-https://discord.gg/kE4s84bRmD
+[Join the support-Discord](https://discord.gg/kE4s84bRmD)
 
 And yes, you are allowed to ping me (=Tratos) if your request is urgent or you did not recieve an answer within a couple of days. 
 
 
 ## 6) Deleting data 
 As stated in Booties’ video:
-https://www.youtube.com/watch?v=6e8Y9NaIzfk
+[Bootys' video](https://www.youtube.com/watch?v=6e8Y9NaIzfk)
 you should inform people about Booty before they join your Discord (it’s recommended to write about him in your server rules). 
 However sometimes people did not read them closely or change their mind later. 
 
